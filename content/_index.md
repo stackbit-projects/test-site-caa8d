@@ -61,16 +61,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
