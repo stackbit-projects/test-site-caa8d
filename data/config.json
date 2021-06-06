@@ -71,5 +71,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://test-site-caa8d.netlify.app"
 }
